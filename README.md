@@ -3,3 +3,22 @@
 ### Number row characters
 - !
 - @
+- \#
+- $
+- %
+- ^
+- &
+- \*
+- (
+- )
+
+### Links
+
+- [chat gpt](https://chatgpt.com/)
+- [google](https://www.google.ca/) 
+
+### experiments
+
+- 😄
+- 😰
+- 😭
