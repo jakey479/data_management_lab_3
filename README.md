@@ -45,5 +45,5 @@
 - ctrl + b (open and close the sidebar in vscode)
 
 - ctrl + shift + e (open the file explorer in vscode)
-- ctrl + shift + n (open a new file in vscode [personal key binding])
-- ctrl + shift + d (open a new directory in vscode [personal key binding])
+- ctrl + alt + n (open a new file in vscode [personal key binding])
+- ctrl + alt + d (open a new directory in vscode [personal key binding])
